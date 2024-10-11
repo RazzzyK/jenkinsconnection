@@ -2,7 +2,7 @@
 
 FROM python
 
-WORKDIR C:\Users\Zack's PC\Desktop\Jenkins Project
+WORKDIR /app
 
 COPY razenokhan.py .
 
